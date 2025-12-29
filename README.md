@@ -1,4 +1,4 @@
-# primero-ejemplo
+# curso de git uno
 Primer repo creado en github
 
 ## descripción
